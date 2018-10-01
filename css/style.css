@@ -1,0 +1,66 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato";
+  font-weight: 300;
+  line-height: 1.8em;
+  color: #96cb7f;
+}
+
+h1 {
+  background-color: #f6f5f3;
+  color: #96cb7f;
+  font-size: 15px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 5px 15px;
+  font-weight: 300;
+  line-height: 1.8em;
+}
+
+.work, .play, .create {
+  position: relative;
+  opacity: 0.70;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.work {
+  background-image: url('../img/work.jpeg');
+  min-height: 60%;
+}
+
+.play {
+  background-image: url('../img/play.jpg');
+  min-height: 60%;
+}
+
+.create {
+  background-image: url('../img/create.jpeg');
+  min-height: 100%;
+}
+
+.section {
+  text-align: Center;
+  padding: 50px 80px;
+}
+
+.section-light {
+  background-color: #f6f5f3;
+  color: #96cb7f;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #96cb7f;
+  font-size: 37px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
