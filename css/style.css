@@ -5,12 +5,12 @@ body, html {
   font-family: "Lato";
   font-weight: 300;
   line-height: 1.8em;
-  color: #96cb7f;
+  color: #000;
 }
 
 h1 {
   background-color: #f6f5f3;
-  color: #96cb7f;
+  color: #000;
   font-size: 15px;
   letter-spacing: 8px;
   text-transform: uppercase;
@@ -51,7 +51,7 @@ h1 {
 
 .section-light {
   background-color: #f6f5f3;
-  color: #96cb7f;
+  color: #000;
 }
 
 .ptext {
@@ -59,7 +59,7 @@ h1 {
   top: 50%;
   width: 100%;
   text-align: center;
-  color: #96cb7f;
+  color: #000;
   font-size: 37px;
   letter-spacing: 8px;
   text-transform: uppercase;
